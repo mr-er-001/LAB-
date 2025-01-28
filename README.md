@@ -1,2 +1,11 @@
-# LAB-
-Matric Result Card
+Console.WriteLine("Muhammad Ehsan");
+Console.WriteLine("24-ST-033");
+Console.WriteLine("Enter the subject in FSC");
+Console.WriteLine("Islamiat");
+Console.WriteLine("English");
+Console.WriteLine("Urdu");
+Console.WriteLine("Mathematics");
+Console.WriteLine("Physics");
+Console.WriteLine("Chemistry");
+Console.WriteLine("Pak Studies");
+Console.WriteLine("Computer");
